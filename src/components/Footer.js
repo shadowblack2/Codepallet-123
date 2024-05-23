@@ -18,7 +18,7 @@ function Footer() {
             </div>
             <div class="links">
                 <div class="information">
-                    <h4>INFORMATION</h4>
+                    <h4>INFORMATIONS</h4>
                     <ul>
                         <li><a href="#">About</a></li>
                         <li><a href="#">Contact</a></li>
